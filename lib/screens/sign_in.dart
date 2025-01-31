@@ -44,7 +44,7 @@ final TextEditingController _emailController = TextEditingController();
             "Привет!",
             style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
           ),
-          const SizedBox(height: 8,)
+          const SizedBox(height: 8,),
           Text('Заполните Свои Данные Или\nПродолжите Через Социальные Медиа',
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 16, color: Color(0xFF707B81)),
